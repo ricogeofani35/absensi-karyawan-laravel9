@@ -1,0 +1,6 @@
+1. buatlah aplikasi manajemen karyawan
+2. data terdiri data user, karyawan, absensi, laporan
+3. absensi terdiri dari absen masuk dan tidak masuk.
+4. jika user tidak masuk maka ada tiga pilihan tanpa keterangan, ijin sakit, ijin cuti.
+5. jika ijin sakit user harus inputkan surat keterangan dokter masimal 3x24 jam.
+6. jika ijin cuti maka user harus memberikan pemberitahuan 3 hari sebelumnya.
